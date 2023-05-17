@@ -6,7 +6,7 @@
 <h3>       <strong>Стек:</strong>
   React, TypeScript</h3>
   
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,git)](https://skillicons.dev)
 
 <!--
 **paHa345/paHa345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

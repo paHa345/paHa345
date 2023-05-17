@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Павел Рыхта </a> 
+<h1 align="center">Привет, меня зовут Павел Рыхта 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Начинающий фронтенд разработчик 🇷🇺</h3>
 <strong>

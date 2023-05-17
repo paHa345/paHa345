@@ -1,9 +1,9 @@
 <h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Павел Рыхта </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий фронтенд разработчик 🇷🇺</h3>
+<h3>Начинающий фронтенд разработчик 🇷🇺</h3>
 <strong>
 
-<h3 align="center">       <strong>Стек:</strong>
+<h3>       <strong>Стек:</strong>
   React, TypeScript</h3>
 
 <!--

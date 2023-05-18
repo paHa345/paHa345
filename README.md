@@ -5,7 +5,7 @@
 
 ##  Стек и технологии
   
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,mongodb,html,css,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,mongodb,html,css,git)](https://skillicons.dev)
   
 <!--   ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)

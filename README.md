@@ -10,6 +10,9 @@
   
 [![Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,mongodb,html,css,git)](https://skillicons.dev)
   
+  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
+
+  
 <!--   ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
